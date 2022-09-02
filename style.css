@@ -42,3 +42,12 @@
     color: white;
     transition: 0.5s ease-in-out;
 }
+
+/* Style added by Rhoda */
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    color: purple;
+    text-align: center;
+}
